@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "とびだせ！わんだぴょい / なみぐる feat.ずんだもん 鏡音リン",
+  "base_artist": "なみぐる",
+  "createdAt": "2026-03-03T13:37:52.105175Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "とびだせ!わんだぴょい (feat. ずんだもん & 鏡音リン)",
+      "artist": "なみぐる",
+      "has_synced": false,
+      "path": "select/pl_01_とびだせ!わんだぴょい_(feat._ずんだもん_&_鏡音リン)_なみぐる.txt"
+    }
+  ]
+}
